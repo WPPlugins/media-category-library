@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Category Library v1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-07 10:21:27+0000\n"
+"Last-Translator: admin <intranet@ipev.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/media-category-library.php:402
+#@ mediacatlib
+msgid "Close"
+msgstr "Fermer"
+
+#: classes/media-category-library.php:427
+#: classes/media-category-library.php:757
+#@ mediacatlib
+msgid "Media Categories"
+msgstr "Catégories de média"
+
+#: classes/media-category-library.php:428
+#: classes/media-category-library.php:437
+#: classes/media-category-library.php:789
+#@ mediacatlib
+msgid "Media Category"
+msgstr "Catégorie de média"
+
+#: classes/media-category-library.php:429
+#@ mediacatlib
+msgid "Search Media Categories"
+msgstr "Recherche par catégories de média"
+
+#: classes/media-category-library.php:430
+#@ mediacatlib
+msgid "All Media Categories"
+msgstr "Toutes les catégories de média"
+
+#: classes/media-category-library.php:431
+#: classes/media-category-library.php:432
+#@ mediacatlib
+msgid "Parent Media Category"
+msgstr "Catégorie de média parent"
+
+#: classes/media-category-library.php:433
+#@ mediacatlib
+msgid "Edit Media Category"
+msgstr "Éditer la catégorie de média"
+
+#: classes/media-category-library.php:434
+#@ mediacatlib
+msgid "Update Media Category"
+msgstr "Mettre à jour la catégorie de média"
+
+#: classes/media-category-library.php:435
+#@ mediacatlib
+msgid "Add New Media Category"
+msgstr "Ajouter une nouvelle catégorie de média"
+
+#: classes/media-category-library.php:436
+#@ mediacatlib
+msgid "New Media Category Name"
+msgstr "Nouvelle catégorie de média"
+
+#: classes/media-category-library.php:558
+#@ mediacatlib
+msgid "Previous"
+msgstr "Précédent"
+
+#: classes/media-category-library.php:559
+#@ mediacatlib
+msgid "Next"
+msgstr "Suivant"
+
+#: classes/media-category-library.php:647
+#@ mediacatlib
+msgid "Displaying"
+msgstr "Affichage"
+
+#: classes/media-category-library.php:648
+#: classes/media-category-library.php:650
+#@ mediacatlib
+msgid "of"
+msgstr "/"
+
+#: classes/media-category-library.php:649
+#@ mediacatlib
+msgid "total records"
+msgstr "documents"
+
+#: classes/media-category-library.php:650
+#@ mediacatlib
+msgid "Page"
+msgstr "Page"
+
+#: classes/media-category-library.php:751
+#@ mediacatlib
+msgid "Add Category"
+msgstr "Ajouter une catégorie"
+
+#: classes/media-category-library.php:752
+#@ mediacatlib
+msgid "Delete Category"
+msgstr "Supprimer une catégorie"
+
+#: views/admin_settings_form.php:12
+#: views/admin_settings_form.php:14
+#@ mediacatlib
+msgid "label"
+msgstr "étiquette"
+
+#: views/list.php:8
+#@ mediacatlib
+msgid "Add New"
+msgstr "Ajouter nouvelle"
+
+#: views/list.php:12
+#@ mediacatlib
+msgid "View By Category"
+msgstr "Vue par catégorie"
+
+#: views/list.php:13
+#@ mediacatlib
+msgid "All"
+msgstr "Toutes"
+
+#: views/list.php:20
+#: views/search.php:1
+#: views/search.php:42
+#@ mediacatlib
+msgid "Search"
+msgstr "Recherche"
+
+#: views/list.php:36
+#: views/list.php:126
+#@ mediacatlib
+msgid "document(s) found"
+msgstr "Document(s) trouvé(s)"
+
+#: views/list.php:48
+#@ mediacatlib
+msgid "File"
+msgstr "Fichier"
+
+#: views/list.php:49
+#: views/search.php:5
+#@ mediacatlib
+msgid "Category"
+msgstr "Catégorie"
+
+#: views/list.php:50
+#@ mediacatlib
+msgid "Caption"
+msgstr "Légende"
+
+#: views/list.php:51
+#@ mediacatlib
+msgid "Date"
+msgstr "Date"
+
+#: views/list.php:52
+#@ mediacatlib
+msgid "Options"
+msgstr "Options"
+
+#: views/list.php:102
+#@ mediacatlib
+msgid "Change Date"
+msgstr "Changer la date"
+
+#: views/list.php:109
+#@ mediacatlib
+msgid "Edit"
+msgstr "Éditer"
+
+#: views/list.php:110
+#@ mediacatlib
+msgid "Delete"
+msgstr "Supprimer"
+
+#: views/list.php:111
+#@ mediacatlib
+msgid "Pages"
+msgstr "Pages"
+
+#: views/list.php:136
+#@ mediacatlib
+msgid "No results found."
+msgstr "Pas de résultats trouvés."
+
+#: views/search.php:21
+#: views/search.php:23
+#@ mediacatlib
+msgid "Keyword"
+msgstr "Mot clés"
+
+#: views/search.php:28
+#@ mediacatlib
+msgid "Order By"
+msgstr "Trier par"
+
+#: views/search.php:31
+#@ mediacatlib
+msgid "File Name"
+msgstr "Nom"
+
+#: views/search.php:32
+#@ mediacatlib
+msgid "File Date"
+msgstr "Date"
+
+#: views/search.php:35
+#@ mediacatlib
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: views/search.php:36
+#@ mediacatlib
+msgid "Descending"
+msgstr "Descendant"
+

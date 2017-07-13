@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Category Library v0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-02 12:56:05+0000\n"
+"Last-Translator: admin <fugu@eraserheads.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/media-category-library.php:66
+#@ media-category-library
+msgid "General Settings"
+msgstr "Einstellungen"
+
+#: classes/media-category-library.php:70
+#@ media-category-library
+msgid "Taxonomy Name (should be all lowercase)"
+msgstr "Verzeichnisname (sollte alles kleingeschrieben sein)"
+
+#: classes/media-category-library.php:75
+#@ media-category-library
+msgid "Media Category Library Rewrite URL"
+msgstr "Ändere URL der Dateienbibliothek"
+
+#: classes/media-category-library.php:80
+#@ media-category-library
+msgid "Media Category Library Title"
+msgstr "Name der Dateienbibliothek"
+
+#: classes/media-category-library.php:85
+#@ media-category-library
+msgid "Include CSS"
+msgstr "Füge CSS ein"
+
+#: classes/media-category-library.php:91
+#@ media-category-library
+msgid "Posts per page (for frontend Media Category Library)"
+msgstr "Dateien pro Seite (für die Anzeige im Frontend)"
+
+#: classes/media-category-library.php:347
+#@ media-category-library
+msgid "Close"
+msgstr "Schließen"
+
+#: classes/media-category-library.php:372
+#: classes/media-category-library.php:373
+#: classes/media-category-library.php:382
+#@ media-category-library
+msgid "Media Category"
+msgstr "Kategorie"
+
+#: classes/media-category-library.php:374
+#@ media-category-library
+msgid "Search Media Categories"
+msgstr "Durchsuche Kategorien"
+
+#: classes/media-category-library.php:375
+#@ media-category-library
+msgid "All Media Categories"
+msgstr "Alle Kategorien"
+
+#: classes/media-category-library.php:376
+#: classes/media-category-library.php:377
+#@ media-category-library
+msgid "Parent Media Category"
+msgstr "Übergeordnete Kategorie"
+
+#: classes/media-category-library.php:378
+#@ media-category-library
+msgid "Edit Media Category"
+msgstr "Ändere Kategorie"
+
+#: classes/media-category-library.php:379
+#@ media-category-library
+msgid "Update Media Category"
+msgstr "Aktualisiere Kategorie"
+
+#: classes/media-category-library.php:380
+#@ media-category-library
+msgid "Add New Media Category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: classes/media-category-library.php:381
+#@ media-category-library
+msgid "New Media Category Name"
+msgstr "Benenne neue Kategorie"
+
+#: classes/media-category-library.php:502
+#@ media-category-library
+msgid "Previous"
+msgstr "Vorherige"
+
+#: classes/media-category-library.php:503
+#@ media-category-library
+msgid "Next"
+msgstr "Nächste"
+
+#: classes/media-category-library.php:575
+#@ media-category-library
+msgid "Displaying"
+msgstr "Anzeigen"
+
+#: classes/media-category-library.php:576
+#: classes/media-category-library.php:578
+#@ media-category-library
+msgid "of"
+msgstr ""
+
+#: classes/media-category-library.php:577
+#@ media-category-library
+msgid "total records"
+msgstr ""
+
+#: classes/media-category-library.php:578
+#@ media-category-library
+msgid "Page"
+msgstr "Seite"
+
+#: classes/media-category-library.php:695
+#@ media-category-library
+msgid "Add/Edit Category"
+msgstr "Neue/Ändere Kategorie"
+
+#: classes/media-category-library.php:696
+#@ media-category-library
+msgid "Delete Category"
+msgstr "Lösche Kategorie"
+
+#: views/list.php:8
+#@ media-category-library
+msgid "Add New"
+msgstr "Datei hinzufügen"
+
+#: views/list.php:12
+#@ media-category-library
+msgid "View By Category"
+msgstr "Sortiere nach Kategorie"
+
+#: views/list.php:13
+#@ media-category-library
+msgid "All"
+msgstr "Alle"
+
+#: views/list.php:20
+#: views/search.php:1
+#: views/search.php:25
+#@ media-category-library
+#@ convoy-theme
+msgid "Search"
+msgstr "Suche"
+
+#: views/list.php:36
+#: views/list.php:126
+#@ media-category-library
+msgid "document(s) found"
+msgstr "Datei(en) gefunden"
+
+#: views/list.php:48
+#@ media-category-library
+msgid "File"
+msgstr "Datei"
+
+#: views/list.php:49
+#: views/search.php:5
+#@ media-category-library
+#@ convoy-theme
+msgid "Category"
+msgstr "Kategorie"
+
+#: views/list.php:50
+#@ media-category-library
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: views/list.php:51
+#@ media-category-library
+msgid "Date"
+msgstr "Datum"
+
+#: views/list.php:52
+#@ media-category-library
+msgid "Options"
+msgstr "Optionen"
+
+#: views/list.php:102
+#@ media-category-library
+msgid "Change Date"
+msgstr "Ändere Datum"
+
+#: views/list.php:109
+#@ media-category-library
+msgid "Edit"
+msgstr "Ändern"
+
+#: views/list.php:110
+#@ media-category-library
+msgid "Delete"
+msgstr "Lösche"
+
+#: views/list.php:111
+#@ media-category-library
+msgid "Pages"
+msgstr "Seiten"
+
+#: views/list.php:136
+#@ media-category-library
+msgid "No results found."
+msgstr "Nichts gefunden"
+
+#: views/search.php:19
+#@ convoy-theme
+msgid "Keyword"
+msgstr "Schlüsselwort"
+

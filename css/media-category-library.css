@@ -1,0 +1,133 @@
+#mediacat-library-search-form fieldset {
+	max-width: 300px;
+	margin-bottom: 1em;
+	padding: 0;
+	border:none;	
+}
+#mediacat-library-search-form {
+	padding: 20px;
+	margin: 0;
+}
+#mediacat-library-search-form .form-row {
+	position: relative;
+	margin: 0;	
+}
+#mediacat-library-search-form .form-row {
+	margin-right: 5%;
+	float: left;	
+}
+#mediacat-library-keyword label {
+	display: inline-block;
+	left: 4px;
+	min-width: 60px;
+	padding: 0 10px;
+	position: relative;
+	top: 22px;
+	z-index: 1;
+}
+#mediacat-library-keyword input {
+	position: relative;
+	text-indent: 80px;
+	display: block;
+}
+#mediacat-library-search-form .form-row {
+	font-size: 0.875em;
+}
+#mediacat-library-keyword input {
+	width: 200px;	
+}
+#mediacat-library-orderby {
+	margin-top: 20px !important;
+}
+#mediacat-library-search-form input:focus {
+	text-indent: 0 !important;
+	z-index: 1;
+}
+#mediacat-library-search-form legend,
+#mediacat-library-search-form .radio-group {
+	color: #004990;
+}
+#mediacat-library-search-form legend {
+	margin-bottom: .4em;	
+}
+#mediacat-library-search-form .radio-group {
+	height: 125px;
+	overflow: auto;
+}
+#mediacat-library-search-form .radio-group label {
+	padding-right: .4em;
+	font-size: 0.875em;
+	line-height: 1em;
+	display: block;
+}
+.cols:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.col-table {
+	display: table;
+	table-layout: fixed;
+	border-collapse: separate;
+	border-spacing: 20px 10px;
+}
+.col-table-row {
+	display: table-row;	
+}
+.two-cols .col,
+.three-cols .col {
+	float: left;	
+}
+.two-cols > .col,
+.two-cols > .col-table-row > .col {
+	width: 23%;
+	margin-left: 4%;	
+}
+.three-cols > .col,
+.three-cols > .col-table-row > .col {
+	width: 30%;
+	margin-left: 2%;	
+}
+.three-cols > .col-table-row > .col {
+	width: 25%;	
+}
+.col-table-row > .col {
+	display: table-cell;
+	float: none;
+	margin-left: 0;
+	vertical-align: top;	
+}
+.two-cols .first-col,
+.three-cols .first-col {
+	margin-left: 0;	
+}
+input[type="submit"],
+button, 
+.button {
+	padding: 0.1875em 24px 0.125em 14px; 
+	border:none;
+	cursor: pointer; 
+	position: relative;
+	-webkit-appearance:none;
+}
+.pagination-details {
+	font-size: 0.857143em;
+	font-style: italic;
+	margin-top: 1em;
+	overflow: hidden;
+}
+.pagination-pages, .pagination-records {
+	float: left;
+	margin-right: 1em;
+	width: 45%;
+}
+.pagination-pages {
+	float: right;
+	margin-right: 0;
+	text-align: right;
+}
+body.mediacatlib table {
+	width: 100%;
+}
